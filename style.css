@@ -1,0 +1,91 @@
+h1
+{
+    font-weight: bold;
+    font-size: 35;
+    color: brown;
+}
+h3
+{
+    color: red;
+    font-weight: bold;
+}
+#bt1
+{
+    width: 150px;
+    height: 40px;
+}
+body
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2
+{
+font-weight: bold;
+}
+#body1
+{
+    background-color: cyan;
+}
+h4
+{
+    font-weight: bold;
+    text-align: left;
+    font-size: 25px;
+}
+#logo
+{
+    width: 20px;
+    height: 20px;
+}
+.points1
+{
+    float: left;
+    color: brown;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-family: fantasy;
+    font-size: 25px;
+    text-align: left;
+}
+.points1:hover {
+    background-color: blueviolet;
+}
+.logo1
+{
+	width: 50px;margin-right: 10090px;
+}
+.points1:hover {
+    background-color: blueviolet;
+}
+
+.points
+{
+    float: left;
+    color: brown;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-family: fantasy;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 100px;
+}
+.points:hover {
+    background-color: blueviolet;
+}
+.logo
+{
+	width: 50px;margin-right: 10090px;
+}
+.points:hover {
+    background-color: blueviolet;
+}
+#body2
+{
+    background-color: yellowgreen;
+    text-align: center;
+}
